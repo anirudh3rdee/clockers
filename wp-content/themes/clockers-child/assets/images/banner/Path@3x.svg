@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="610px" viewBox="0 0 491 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>3A7CA989-A029-4563-A883-102004476D02@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-5.30319206%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#18618B" offset="0%"></stop>
+            <stop stop-color="#6AEBFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="01_HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_HomePage_Confirmed" transform="translate(-751.000000, -130.000000)" fill-rule="nonzero" stroke="url(#linearGradient-1)" stroke-width="9.00000036">
+            <g id="Hero">
+                <g id="Illustration" transform="translate(708.000000, 134.000000)">
+                    <path d="M351.021611,301 L527,59.8684599 C477.123772,23.1335768 415.013752,0.527494908 348.198428,0.527494908 C182.571709,0.527494908 48,135.222066 48,301 C48,466.777934 182.571709,601.472505 348.198428,601.472505 C415.013752,601.472505 477.123772,579.808343 527,542.13154 L351.021611,301 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

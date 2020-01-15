@@ -1,0 +1,127 @@
+.bg-white{
+  background:#fff;
+}
+.we-work__bonus .card {
+  box-shadow: 0 16px 23px 0 rgba(0,0,0,0.15);
+  border-top: 1px solid #F3F3F3;
+  border-radius: 0;
+  height: 100%;
+}
+.shadow-box{
+  box-shadow: 2px 3px 40px 0 rgba(0,0,0,0.11);
+}
+.how-we-work{
+  margin-bottom: 120px;
+}
+.leading {
+    position: relative;
+}
+.leading__patern-up {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.leading__patern-down {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.leading__wrapper {
+    margin: 80px auto;
+    width: 100%;
+}
+.methods {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  z-index: 1;
+  position: relative;
+}
+.method__box-wrapper {
+  background: #fff;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 0px 26px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: auto;
+}
+
+.method__desp {margin-left: 8px;}
+
+.method__desp-text {
+  margin-bottom: 0;
+}
+.we-work-scope__patern-up{
+  position: absolute;
+  top: -20px;
+  left: 60px;
+}
+.we-work-scope__patern-down{
+  position: absolute;
+  right: 0px;
+  bottom: -20px;
+}
+.we-work__video{
+position: relative;
+margin-bottom: 160px;
+}
+.we-work__videos-wrapper {
+  max-width: 100%;
+  border-radius: 8px;
+  -webkit-box-shadow: 0 8px 28px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 8px 28px 0 rgba(0, 0, 0, 0.15);
+  width: 750px;
+  height: 414px;
+  margin: auto;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(128.55deg, #FF8400 0%, #FF611E 100%);
+}
+
+.methods .pt-130 {
+    padding-top: 130px ;
+}
+.we-work__video-video {
+    width: 100% !important;
+    height: auto !important;
+}
+/* .we-work__video-video {
+ width:187px !important;
+ height: 187px !important;
+} */
+.we-work__stories-pattern-up{
+  z-index: -1;
+  position: absolute;
+  right: -48px;
+  top: -50px;
+}
+.we-work__stories-pattern-down{
+  z-index: -1;
+  position: absolute;
+  left: -62px;
+  bottom: -52px;
+}
+.method__box.pt-130 {
+    padding-top: 120px;
+}
+@media (max-width:1024px){
+	.methods .method__box:nth-child(4),
+	.pt-130{
+		padding: 0px !important;
+	}
+	
+}
+@media (max-width:767px){
+	.hero__wrapper {
+    	margin-top: 60px !important;
+		margin-bottom: 60px !important;
+	}
+	.pt-130 {
+		padding-top: 0 !important;
+	}
+}

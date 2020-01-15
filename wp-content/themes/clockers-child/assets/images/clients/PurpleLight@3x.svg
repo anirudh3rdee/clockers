@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="836px" height="865px" viewBox="0 0 836 865" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59.1 (101010) - https://sketch.com -->
+    <title>D529A87E-6205-44EB-A34F-EB7E16259D7D@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-24.3%" y="-24.3%" width="148.5%" height="148.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="01_HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.199188">
+        <g id="01_HomePage_Confirmed" transform="translate(0.000000, -1570.000000)" fill="#8424FC">
+            <g id="Fold" transform="translate(-24.000000, 812.000000)">
+                <g id="Projects" transform="translate(24.000000, 522.000000)">
+                    <g id="Free-Session" transform="translate(94.000000, 360.000000)">
+                        <ellipse id="PurpleLight" filter="url(#filter-1)" cx="309" cy="308.5" rx="309" ry="308.5"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,155 @@
+/*-------------------- why clockers -------------------------*/
+.clockers__banner-wrap {
+  position: absolute;
+  bottom: 0;
+  right: -40px;
+}
+.team__wrapper {
+  margin: 120px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.native__wrapper {
+  margin: 80px auto;
+  width: 100%;
+}
+.native__descp {
+  text-align: center;
+}
+.weare__btn-wrapper a.weare__btn:not([href]){
+    color:#fff;
+}
+.native__peoples {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-top: 80px;
+}
+.native__peoples-sec {
+  width: 213px;
+  max-width: 100%;
+  margin: 0 50px;
+  text-align: center;
+}
+.native__peoples-designation {
+  font-size: 21px;
+  font-weight: 300;
+  color: #2a2a2a;
+	margin-top: 10px;
+}
+.native__peoples-name {
+  font-size: 21px;
+  font-weight: 300;
+  color: #6F6F6F;
+}       
+.purple-bg {
+  background: #0C0022;
+}
+.about-clockers{
+  position: relative;
+}
+.about-clockers__wrapper {
+  margin: 80px auto;
+  width: 100%;
+}
+.weare {
+  padding: 70px 0;
+}
+.weare__icon {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.weare__icon-img {
+  max-width: 100%;
+  display: block;
+}
+.weare__btn-wrapper {
+  display: block;
+  width: 100%;
+}
+.weare__btn {
+  width: auto;
+  border-radius: 8px;
+  padding: 14px 24px;
+  color: #fff;
+  margin-top: 8px;
+  font-size: 24px;
+  display: inline-block;
+}
+
+.sky-blue {
+  background-color: #07C5D4;
+}
+.weare__btn:hover{
+  color: #fff;
+  text-decoration:none;    
+}
+
+.scope__patern-down {
+  position: absolute;
+  bottom: -19px;
+  left: 60px;
+}
+.wc-wehave__patern-up {
+  position: absolute;
+  right: 0;
+  top: 25px;
+}
+.wc-wehave__patern-down {
+  position: absolute;
+  bottom: 0;
+  left:0;
+}
+.native {
+  position: relative;
+}
+
+.native__bg-up-img {
+ position: absolute;
+ top: 0;
+ right: 50px;
+}
+.native__bg-down-img {
+  position: absolute;
+  bottom: -46px;
+  left: 80px;
+}
+@media (max-width:1570px){
+	.native__descp {
+		text-align: center;
+		width: 80%;
+		margin: auto;
+	}
+}
+@media (max-width: 767px){
+	.native__descp {
+		width:100%;
+	}
+	.why-clockers .hero__banner img {
+		object-fit: cover !important;
+	}
+	.native__peoples-designation{
+		margin-top:20px;
+	}
+}
+

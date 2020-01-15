@@ -1,0 +1,25 @@
+User-agent: *
+Noindex: /*.pdf
+Noindex: /wp-admin/
+Noindex: /wp-includes/
+Noindex: /wp-content/plugins/
+Noindex: /wp-content/themes/
+Noindex: /wp-content/uploads/
+Noindex: /category/
+Noindex: /tag/
+Noindex: /author/
+Noindex: /page/
+Noindex: /*?*
+
+Nofollow: /*.pdf
+Nofollow: /wp-admin/
+Nofollow: /wp-includes/
+Nofollow: /wp-content/plugins/
+Nofollow: /wp-content/themes/
+Nofollow: /wp-content/uploads/
+Nofollow: /category/
+Nofollow: /tag/
+Nofollow: /author/
+
+Follow: /page/
+Follow: /*?*

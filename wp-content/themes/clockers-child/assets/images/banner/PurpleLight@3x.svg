@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="765px" height="765px" viewBox="0 0 765 765" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>4F3239A3-F9DE-4D49-88B9-4E60589A5399@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-29.0%" y="-29.0%" width="158.0%" height="158.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="01_HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.341578314">
+        <g id="01_HomePage_Confirmed" transform="translate(-624.000000, -54.000000)" fill="#8424FC">
+            <g id="Hero">
+                <g id="Illustration" transform="translate(708.000000, 134.000000)">
+                    <circle id="PurpleLight" filter="url(#filter-1)" cx="298.5" cy="302.5" r="258.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

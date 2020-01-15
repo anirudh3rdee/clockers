@@ -1,0 +1,54 @@
+.space-btn{
+    margin:50px;
+}
+.meeting-work .title__text-underline:after{
+	bottom:2px !important;
+}
+.native__wrapper {
+    margin: 80px auto;
+    width: 100%;
+  }
+  .native__descp {
+    text-align: center;
+  }
+  
+  .native__peoples {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 80px;
+  }
+  .native__peoples-sec {
+    width: 213px;
+    max-width: 100%;
+   margin: 0 50px;
+    text-align: center;
+  }
+  .native__peoples-designation {
+    font-size: 21px;
+    font-weight: 300;
+    color: #2a2a2a;
+    margin-top: 10px;
+  }
+  .native__peoples-name {
+    font-size: 21px;
+    font-weight: 300;
+    color: #6F6F6F;
+  } 
+  .meeting-work__img {
+    margin: 40px auto;
+    text-align: center;
+}
+.meeting-work .scorp-wrapper {
+    width: 100%;
+    margin: 120px auto;
+}

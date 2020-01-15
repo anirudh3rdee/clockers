@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="370px" viewBox="0 0 370 370" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59.1 (101010) - https://sketch.com -->
+    <title>F756B42F-2210-40AF-B384-EC2B732CFC24@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00F7FF" offset="0%"></stop>
+            <stop stop-color="#00ECFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.6211102%" y1="75.1194205%" x2="85.3538688%" y2="15.0379884%" id="linearGradient-2">
+            <stop stop-color="#00ECFF" offset="0%"></stop>
+            <stop stop-color="#005ED2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="01_HomePage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_HomePage_Confirmed" transform="translate(-835.000000, -2499.000000)" fill-rule="nonzero">
+            <g id="Fold" transform="translate(-24.000000, 812.000000)">
+                <g id="Projects" transform="translate(24.000000, 522.000000)">
+                    <g id="Lets-Talk" transform="translate(135.000000, 1017.000000)">
+                        <g id="Illustration-2" transform="translate(700.000000, 148.000000)">
+                            <path d="M246.336131,244.908926 L246.336131,369.11127 L0.516861374,369.11127 L0.516861374,124.510793 L123.426496,124.510793 C124.460219,191.238708 179.04078,244.908926 246.336131,244.908926 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                            <path d="M369.245765,122.660096 C369.245765,190.210543 314.148343,244.908926 246.336131,244.908926 L246.336131,124.510793 L123.426496,124.510793 C123.426496,123.893894 123.426496,123.276995 123.426496,122.660096 C123.426496,55.1096492 178.420546,0.411266039 246.336131,0.411266039 C314.251715,0.411266039 369.245765,55.2124658 369.245765,122.660096 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                            <polygon id="Path" fill="#005ED2" points="0.516861374 124.510793 0.516861374 0.411266039 123.426496 0.411266039"></polygon>
+                            <polygon id="Path" fill="#00ECFF" points="369.245765 244.908926 369.245765 307.010098 307.739262 307.010098"></polygon>
+                            <polygon id="Path" fill="#00ECFF" points="369.245765 307.010098 369.245765 369.11127 307.739262 369.11127"></polygon>
+                            <polygon id="Path" fill="#00ECFF" points="307.842634 307.010098 307.842634 369.11127 246.336131 369.11127"></polygon>
+                            <path d="M246.336131,124.510793 L246.336131,196.173901 C206.537805,196.173901 174.285655,164.09515 174.285655,124.510793 L246.336131,124.510793 L246.336131,124.510793 Z" id="Path" fill="#7253CE"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
